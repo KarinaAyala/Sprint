@@ -1,0 +1,32 @@
+.form-control{
+    max-width: 25em;
+    padding: 1.3em;
+    margin: 0 auto;
+    background-color:rgba(120, 119, 123, 0.3);
+    font-weight: bold;
+    border-radius: 0.5em;
+    box-shadow: inset 1px 1px 22px 4px;
+    background: white;    
+}
+.form_vehiculo{
+    max-width: 25em;
+    padding: 1.3em;
+    margin: 0 auto;
+    background-color:rgba(120, 119, 123, 0.3);
+    font-weight: bold;
+    border-radius: 0.5em;
+    box-shadow: inset 1px 1px 22px 4px;
+    background: white;
+    align-content: center;
+}.form-group{
+    max-width: 25em;
+    padding: 1.3em;
+    margin: 0 auto;
+    background-color:rgba(120, 119, 123, 0.3);
+    font-weight: bold;
+    border-radius: 0.5em;
+    box-shadow: inset 1px 1px 22px 4px;
+    background:#ffcccc;
+    align-content: center;
+}
+
